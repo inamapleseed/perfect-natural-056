@@ -1,0 +1,254 @@
+.islip-photo-item {
+    height: 150px;
+    overflow: hidden;
+}
+.islip-photo-item img {
+    min-height: 150px;
+}
+@media (min-width: 768px) {
+    .islip-photo-item {
+        height: 180px;
+    }
+    .islip-photo-item img {
+        min-height: 180px;
+    }
+}
+.islip-photo-item:hover {
+    cursor: pointer;
+}
+.islip-gutter-remove [class*=col-] {
+    padding: 0;
+}
+.islip-gutter-5px [class*=col-] {
+    padding: 0 5px;
+    margin: 5px 0;
+}
+.islip-p100 {
+    padding: 100px;
+    text-align: center;
+}
+
+.js-islip-page-container {
+    margin: 5px -5px;
+}
+.js-photos-notification {
+    margin: 15px;
+}
+.js-fetch-more {
+    display: none;
+    margin-bottom: 25px;
+}
+
+.islip-module {
+    margin-bottom: 25px;
+}
+
+/* Modal */
+.islip-modal-dialog {
+    background: #fff;
+    position: relative;
+    width: auto;
+    margin: 10px;
+}
+.islip-modal-dialog > .row {
+    margin: 0 -15px;
+}
+.islip-modal-dialog .col-md-7 .img-responsive {
+    min-height: 240px;
+}
+.islip-modal-dialog .islip-modal-info {
+    padding:20px 20px 0 20px;
+}
+.islip-modal-dialog h3 a:hover {
+    color: #0da2ec;
+}
+
+.photo-ig-username .fa-instagram {
+    font-size: inherit;
+}
+.islip-modal-dialog .product-thumb {
+    border: 0;
+    margin-bottom: 0;
+    min-height: 160px
+}
+.islip-modal-dialog .product-thumb h4 {
+    font-size: 13px;
+    margin: 10px 0 5px
+}
+
+.islip-modal-dialog .swiper-viewport {
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    padding-bottom:25px;
+}
+.islip-modal-dialog .swiper-pagination {
+    bottom: 0;
+}
+.islip-modal-dialog .product-thumb {
+    padding: 4px;
+}
+.islip-modal-dialog .btn-default {
+    margin-top: 10px;
+}
+.islip-modal-dialog .btn-isg {
+    padding: 5px 10px;
+}
+.islip-modal-dialog hr {
+    border-color: #ddd;
+    margin: 20px 0;
+}
+.islip-modal-dialog h3.photo-ig-username {
+    margin: 0 0 10px;
+    font-size: 21px;
+    font-weight: normal;
+}
+.islip-modal-dialog h3.photo-related-product {
+    font-size: 19px;
+}
+.islip-modal-dialog .photo-ig-info {
+    color: #999;
+    font-size: 12px;
+    margin-top: -4px;
+    margin-bottom: 14px;
+}
+.islip-modal-dialog .photo-ig-info span + span {
+    margin-right: 10px;
+}
+.islip-modal-dialog .photo-ig-caption {
+    position: relative;
+    color: #444;
+}
+.islip-modal-dialog .photo-ig-caption.caption-truncate {
+    overflow: hidden;
+    max-height: 100px;
+}
+.islip-modal-dialog .photo-ig-caption.caption-truncate.caption-expand {
+    overflow: visible;
+    max-height: 100%;
+}
+.islip-modal-dialog .photo-ig-caption .photo-ig-caption-overlay {
+    display: none;
+}
+.islip-modal-dialog .photo-ig-caption.caption-truncate .photo-ig-caption-overlay {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    height: 50px;
+    padding: 25px 0 25px 0;
+    text-align: center;
+    background: linear-gradient(to bottom, transparent, #fff);
+}
+.islip-modal-dialog .photo-ig-caption.caption-expand p {
+    margin-bottom: 40px;
+}
+.islip-modal-dialog .photo-ig-caption.caption-expand .photo-ig-caption-overlay {
+    bottom: -30px;
+}
+
+.islip-modal-dialog .photo-ig-caption .photo-ig-caption-overlay span {
+    cursor: pointer;
+    padding: 0px 10px 1px;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 1.6;
+}
+.islip-modal-dialog .photo-ig-caption.caption-expand .photo-ig-caption-more,
+.islip-modal-dialog .photo-ig-caption .photo-ig-caption-less {
+    display: none;
+}
+.islip-modal-dialog .photo-ig-caption .photo-ig-caption-more,
+.islip-modal-dialog .photo-ig-caption.caption-expand .photo-ig-caption-less {
+    display: inline-block;
+}
+
+@media (min-width: 768px) {
+    .islip-modal-dialog {
+        width: 600px;
+        margin: 30px auto;
+    }
+}
+@media (min-width: 992px) {
+    .islip-modal-dialog {
+        width: 900px;
+    }
+    .islip-modal-dialog .islip-modal-info {
+        padding-left: 0;
+        margin-left: -10px;
+    }
+}
+
+@media (max-width: 768px) {
+    html.mfpip-open body {
+        height: 100%;
+        width: 100%;
+        overflow-y: hidden;
+        position: fixed;
+    }
+    .mfp-bg {
+        background: #fff;
+        opacity: 1;
+    }
+    .mfp-wrap {
+        position: fixed !important;
+        top: 0 !important;
+        width: 100%;
+        height: 100%;
+    }
+    .mfp-wrap .mfp-container {
+        overflow-y: scroll;
+        position: absolute;
+    }
+    .mfp-container.mfp-ajax-holder {
+        padding: 0;
+    }
+    .mfp-container .mfp-preloader {
+        color: #555;
+    }
+    .islip-modal-dialog {
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    .islip-modal-dialog hr {
+        display: none
+    }
+    .islip-modal-dialog .islip-modal-info {
+        padding: 10px 20px 0 20px;
+    }
+    .islip-modal-dialog .islip-modal-info h3 {
+        margin-top: 0;
+    }
+    .islip-modal-dialog h3.photo-ig-username {
+        font-size: 16px;
+    }
+    .islip-modal-dialog .photo-ig-date {
+        margin-bottom: 0;
+    }
+    .islip-modal-dialog .photo-ig-caption {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .islip-modal-dialog .islip-modal-info h3.photo-related-product {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .islip-modal-dialog .product-thumb {
+        padding: 0 4px;
+    }
+    .islip-modal-dialog .product-thumb h4 {
+        margin-top: 5px !important;
+    }
+    .islip-modal-dialog .swiper-viewport {
+        padding-bottom: 0;
+    }
+    .islip-modal-dialog .swiper-pagination {
+        display: none;
+    }
+}

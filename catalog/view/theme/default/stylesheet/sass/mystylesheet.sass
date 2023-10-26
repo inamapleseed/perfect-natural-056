@@ -1,0 +1,1471 @@
+$b: #000
+$w: #fff
+$green: #309352
+ 
+*
+	outline: none !important
+	font-family: 'HelveticaNeue Light.ttf'
+
+	&::selection
+		// background: $green
+h2, h3
+	font-family: 'HelveticaNeue Medium.ttf'
+
+@font-face
+	src: url('../fonts/HelveticaNeue Medium.ttf')
+	font-family: 'HelveticaNeue Medium.ttf'
+
+@font-face
+	src: url('../fonts/HelveticaNeue Light.ttf')
+	font-family: 'HelveticaNeue Light.ttf'
+
+input
+	&::-ms-clear,
+	&::-ms-reveal
+		display: none !important
+ 
+input[type=text], input[type=tel], textarea
+	background: transparent !important
+	border-radius: 2px !important
+
+select
+	cursor: pointer
+ 
+button, input
+	outline: none !important
+	&:focus
+		outline: none !important
+ 
+.enquiry-success
+	.checkout-success
+		text-align: center
+ 
+a:not(.sticker)
+	&:hover
+		color: $green
+ 
+.cart-dorpdown-items
+	img
+		height: auto !important
+ 
+.cart-dorpdown-footer
+	a
+		background: $green
+		border-color: $green
+		color: $b !important
+		font-weight: 500 !important
+		&:hover
+			color: $w
+			border-color: $green
+			background: $green !important
+ 
+.swal2-confirm
+	border-color: $green !important
+	background: $green !important
+ 
+.checkout-success .line-4 a
+	&:hover
+		color: $green !important
+ 
+.btn-primary, #reorder_order, #quickcheckout-back, .account-password .btn-default
+	min-width: 140px !important
+	padding: 11px 13px
+	font-weight: 400
+	border: none
+	border-radius: 7px !important
+	color: $w
+	font-size: 12px
+	background: $green
+	letter-spacing: 0
+	position: relative
+	&:hover, &:active, &:focus
+		background: $green
+		color: $w !important
+
+	&::before
+		content: ''
+		width: 5px
+		height: 5px
+		border: 1px solid $w
+		border-color: transparent $w $w transparent
+		transform: rotate(-45deg)
+		position: absolute
+		right: 13%
+		top: 26%
+		bottom: 0
+		padding: 3.5px
+		margin: 5px
+
+.featured
+	.btn
+		&::before
+			display: none
+
+.btn-default:not(.btn-number, #button-search, .product-button > .btn-default)
+	min-width: 120px !important
+	padding: 11px 13px
+	font-weight: 400
+	border: none
+	border-radius: 7px !important
+	color: $w
+	font-size: 12px
+	background: $green
+	letter-spacing: 0
+	&:hover, &:active, &:focus
+		background: $green
+		color: $w !important
+ 
+	&::before
+		content: ''
+		width: 5px
+		height: 5px
+		border: 1px solid $w
+		border-color: transparent $w $w transparent
+		transform: rotate(-45deg)
+		position: absolute
+		right: 13%
+		top: 26%
+		bottom: 0
+		padding: 3.5px
+		margin: 5px
+
+.btn-number, #button-search, .product-button > .btn-default
+	background: $green
+ 
+.btn-number
+	color: $b
+	&:hover
+		background: $green !important
+		span
+			color: $w
+ 
+.quickcheckout-cart
+	.input-group-btn
+		button
+			padding: 6px 12px !important
+ 
+		.button-update
+			min-width: 0 !important
+ 
+#filter_group_tigger_open
+	padding: 6px 12px
+	border: 1px solid $b
+	min-width: 0 !important
+	font-weight: 500
+ 
+#button-coupon, #button-login
+	padding: .5em !important
+	min-width: 5em !important
+ 
+.btn-mi
+	min-width: 4em !important
+	padding: 4px 6px 0
+ 
+.glyphicon-minus
+	&:before
+		content: '-'
+		display: inline-block
+ 
+.glyphicon-plus
+	&:before
+		content: '+'
+		display: inline-block
+ 
+.account-container
+	a
+		&:hover
+			border-color: $green !important
+			h3, span:before, p
+				color: $green !important
+ 
+.cart-dorpdown-item-charges
+	max-width: 50%
+ 
+.alert
+	.alert-danger, .alert-success
+		margin-top: 3%
+ 
+#content
+	margin-bottom: 2em
+	line-height: 1.5em
+ 
+#mobileNav
+	i
+		color: $green
+ 
+#sidr
+	.cd-accordion-menu
+		li
+			label
+				display: none
+			label ~ ul
+				display: none !important
+ 
+	a
+		color: $b
+		&:hover
+			// color: $w !important
+			font-weight: bold
+ 
+.account-forgotten
+	form
+		fieldset
+			padding-top: 3%
+ 
+.account-order
+	.modal-dialog
+		.modal-body
+			ul
+				margin: auto
+				width: auto
+				li
+					a
+						background: $green
+						color: $b
+						border: 1px solid $green
+						transition: .3s ease
+						.badge
+							color: $green
+				&:hover
+					a
+						background: $w
+						color: $green
+			#reorder_order
+				width: 170px
+				margin: 0 auto
+ 
+.information-contact-success
+	#content
+		text-align: center
+		.buttons
+			margin-top: 4em !important
+ 
+.pagination-container
+	text-align: center
+ 
+.pagination
+	li
+		a, span
+			border: none !important
+			color: $b
+			font-weight: bold
+			width: 25px !important
+			height: 25px !important
+			display: flex
+			align-items: center
+			justify-content: center
+			border-radius: 50%
+			margin: 0 .5em
+		a
+			background: transparent
+ 
+		&.active, &:hover
+			span, a
+				color: $w !important
+				background: $green !important
+ 
+		&.arrow
+			a
+				color: $green
+				font-weight: bold
+				font-size: 20px
+ 
+#side-price
+	.ui-slider-range, .ui-slider-handle
+		background: $green !important
+ 
+	#slider-price
+		background: $b !important
+ 
+	.ui-slider-handle
+		width: 15px !important
+		height: 15px !important
+		border-radius: 2px !important
+		box-shadow: 0 2px 4px grey
+ 
+.acount-reg-footer
+	display: flex
+	justify-content: space-between
+	align-items: center
+ 
+	@media (min-width: 768px)
+		#google_recaptcha
+			margin-bottom: 0
+			margin-left: 0
+ 
+	@media (max-width: 768px)
+		flex-direction: column
+ 
+		#google_recaptcha
+			margin-bottom: 10px !important
+
+.information-contact
+	#content
+		margin-bottom: 70px
+
+	@media (min-width: 991px)
+		#content
+			padding: 0
+		> .container
+			width: 100%
+			position: relative
+			padding: 0
+			> .row, > .breadcrumb
+				width: 85%
+				margin: 0 auto
+
+	@media (max-width: 990px)
+		> .container
+			width: 100%
+			position: relative
+			padding: 0
+
+			> .row, > .breadcrumb
+				margin: 0 auto
+
+	@media (max-width: 767px)
+		.breadcrumb
+			width: 90%
+			margin: 0 auto
+
+	@media (max-width: 991px) and (min-width: 768px)
+		> .container
+			> .row, > .breadcrumb
+				width: 90%
+
+	.col-sm-12
+		h3
+			font-weight: 600
+			font-size: 16px
+			padding-bottom: 15px
+			color: $green
+
+		strong
+			font-weight: 600 !important
+
+		a
+			color: $b
+			&:hover
+
+	.col-md-9
+		padding-left: calc(0px + (70 - 0) * (100vw - 320px) / (1920 - 320))
+
+	form
+		.form-group
+			margin-bottom: 14px !important
+		input[type=text], input[type=tel]
+			height: 45px
+
+@media (min-width: 1200px)
+	.container
+		width: 85%
+		margin: 0 auto
+
+.iid-4
+	#content
+		@media (min-width: 991px)
+			padding: 0
+
+	.aboutus
+		padding: 0 !important
+		.about-container
+			@media (min-width: 991px)
+				padding-top: 15px
+
+			@media (max-width: 991px)
+				padding-top: 28px
+
+			.inner
+				display: flex
+				justify-content: space-between
+				margin-bottom: calc(15px + (25 - 15) * (100vw - 320px) / (1920 - 320))
+
+				.images
+					position: relative
+					display: flex
+					align-items: center
+
+					.inner-image
+						height: 96%
+						img
+							width: 100%
+							height: 100%
+							object-fit: cover
+
+				.text
+					height: 100%
+					overflow: auto
+					margin: 0 0 auto 0
+					display: flex
+					flex-direction: column
+
+					> div
+						margin: auto 0
+
+						h3
+							font-size: calc(20px + (28 - 20) * (100vw - 320px) / (1920 - 320))
+							font-weight: 600
+							margin-bottom: 15px
+							color: $green
+
+						p
+							line-height: 2em
+							margin-bottom: 15px
+
+				@media (min-width: 1200px)
+					height: 400px
+
+				@media (max-width: 1200px) and (min-width: 991px)
+					height: 350px
+
+				@media (min-width: 991px)
+					.images
+						width: 48%
+
+					.text
+						width: 45%
+
+					&.even
+						.images
+							order: 2
+
+						.text
+								order: 1
+
+				@media (max-width: 991px)
+					flex-direction: column
+					.text
+						h3
+							margin: 35px 0 10px !important
+
+			@media (max-width: 991px) and (min-width: 768px)
+				width: 75%
+				margin: 0 auto
+
+.product-product
+	.price-wrapper
+		display: flex
+		padding-top: 10px
+		padding-bottom: 15px
+
+		*
+			font-size: 22px
+			font-weight: 500
+		.product-price
+			&.old-prices
+				color: $green
+
+		.product-special-price
+			padding-right: 10px
+			color: #FF4A4C
+
+		li
+			+ li
+				span
+					opacity: .5
+
+	#waiting_list
+		background: $w
+		box-shadow: 0 0px 8px lightgrey
+		border-radius: 8px
+		.waiting_list_container
+			border: none
+			padding: 20px
+			*
+				font-weight: 500
+
+		input
+			border-radius: 2px
+			min-height: 40px
+			border: 1px solid #DEDEDE
+			&::placeholder
+				padding-left: 15px
+
+	.sold-share
+		display: flex
+		align-items: center
+		.btn-sold
+			background: #9A9A9A
+			margin-right: 15px
+
+	#product-tabs
+		margin-top: calc(25px + (50 - 25) * (100vw - 320px) / (1920 - 320))
+		margin-bottom: 0
+		li
+			a
+				background: $w
+				color: $green
+				border: none
+				padding: 8px 30px
+				min-width: 120px
+				text-align: center		
+				border-top-right-radius: 20px		
+				border-top-left-radius: 20px
+				border: 2px solid $green
+				margin-right: 0
+				border-bottom: none
+			&.active, &:hover
+				a
+					background: $green
+					color: $w
+
+			@media (max-width: 767px)
+				width: 100%
+				&:not(:first-of-type)
+					a
+						border-radius: 0 !important
+
+	.tab-content
+		margin-bottom: calc(25px + (70 - 25) * (100vw - 320px) / (1920 - 320))
+		padding: 15px 20px
+		border: 2px solid $green
+		background: $w
+		border-bottom-right-radius: 10px
+		border-bottom-left-radius: 10px
+		@media (min-width: 768px)
+			border-top-right-radius: 10px
+
+.product-category, .product-special
+	.sorts
+		.flex
+			justify-content: flex-end
+			padding: 0
+
+		@media (min-width: 991px)
+			.col-md-5
+				max-width: 180px
+				select
+					border: 1px solid #A7A7A7
+					border-radius: 4px
+					overflow: hidden
+
+	aside
+		@media (min-width: 991px)
+			padding-left: 0
+		#filter-groups
+			@media (min-width: 991px)
+				width: 85%
+
+			@media (min-width: 768px) and (max-width: 991px)
+				width: 95%
+	
+			.item-header
+				font-weight: 700
+				font-size: 14px
+				// text-transform: uppercase
+				color: $green
+	
+			#side-categories
+				.side-categories-level-1
+					margin-bottom: 12px
+	
+					.item
+						&.level-1
+							border: 2px solid $green
+							background: $w
+							border-radius: 6px
+							&.active, &:hover
+								background: $green
+								a, .plus
+									color: $w
+
+							&.active
+								box-shadow: 0 -4px 8px lightgrey
+								border-bottom-left-radius: 0
+								border-bottom-right-radius: 0
+
+							&.active
+								.toggle
+									.plus
+										color: transparent
+										.minus
+											opacity: 1
+											color: $w
+						.toggle
+							.plus
+								position: relative
+								font-weight: 500
+								font-size: 22px
+								color: $green
+								padding-bottom: 4px
+								.minus
+									font-size: 34px
+									opacity: 0
+									position: absolute
+									right: 0
+									left: 0
+									color: transparent
+	
+						a
+							color: $green
+							font-weight: 500
+							text-transform: capitalize
+							padding-left: 15px
+							font-size: 13px
+	
+					.sub
+						padding-left: 15px
+						&.level-2
+							padding: 7px 0
+							box-shadow: 0 4px 8px lightgrey
+							border-bottom-left-radius: 6px
+							border-bottom-right-radius: 6px
+
+						.group
+							&:hover
+								background: #EBEBEB
+
+						.item
+							&.level-2
+								padding-left: 10px
+								&.active, &:hover
+									a
+										color: $green
+
+						a
+							color: $b
+							font-weight: 500
+
+.product-gutter
+	.product-block
+		border: none
+
+		.product-image-block
+			box-shadow: 0 0 5px #ebebeb
+			border-radius: 8px
+			border: 2px solid transparent
+			img
+				border-radius: 8px
+	
+	&:hover
+		.product-image-block
+			border: 2px solid $green
+	
+	.qty-cart-btn
+		display: flex
+		flex-wrap: wrap
+		justify-content: center
+		> *
+			margin-bottom: 5px !important
+
+		.form-group
+			margin-bottom: 0
+			border-radius: 8px
+			overflow: hidden
+			border: 1px solid $green
+
+			.input-group
+				height: 100%
+				input
+					max-width: 50px
+					height: 100%
+					box-shadow: none
+					border: none
+
+			button
+				background: $w
+				border: none
+				span
+					color: $green
+					font-size: 25px
+					height: 100%
+					&.glyphicon-minus
+						font-size: 29px
+				
+				&:hover
+					span
+						color: $w
+
+	.cart-buttons
+		margin: 0 auto
+		.btn-cart
+			height: 100%
+
+	.product-details
+		.price-og
+			color: $green !important
+
+		.price-new
+			color: #FE1E08
+
+	.product-name
+		a
+			color: $b
+			font-weight: 600
+
+.sticker
+	text-align: center
+	border-top-right-radius: 6px
+	border-bottom-right-radius: 6px
+	text-transform: uppercase
+	font-size: 12px
+	min-width: 70px
+	&::after
+		content: ''
+		display: inline-block
+		width: 8px
+		height: 8px
+		border-style: solid
+		border-width: 0 8px 8px 0
+		border-color: transparent #000000 transparent transparent
+		position: absolute
+		left: 0
+		bottom: -8px
+
+.product-product
+	.product-image-main-container
+		box-shadow: 0 0 10px #ebebeb
+		border-radius: 8px
+		overflow: visible !important
+
+	.pd-lg-r60
+		padding-right: 50px !important
+
+	.product-image-additional
+		transform: scale(.9)
+		.slick-nav
+			img
+				border: none
+				width: 30px
+
+		.slick-list, .slick-slide
+			transform: scale(.9)
+
+	.quantity-wrapper
+
+	.quantity-wrapper
+		.form-group
+			width: 100%
+
+		.inner
+			display: flex
+			flex-wrap: wrap
+			width: 100%
+			align-items: flex-end
+			> *
+				margin-bottom: 5px !important
+
+			.input-group
+				margin-right: 15px
+				border: 2px solid $green
+				border-radius: 6px
+				height: 45px
+				width: auto !important
+				span
+					border: none
+				input
+					max-width: 50px
+					height: 100%
+					box-shadow: none
+					border: none
+
+				@media (max-width: 768px)
+					min-height: 40px
+					// margin-bottom: 15px
+				> *
+					flex: none
+				
+				#input-quantity
+					width: 50px
+					border-radius: 0 !important
+					box-shadow: none
+					height: 100%
+					border: none
+
+				button
+					background: $w
+
+				.input-group-btn
+					border-radius: 2px !important
+					*
+						font-weight: bold
+
+					&:first-of-type
+						border-top-left-radius: 25px
+						overflow: hidden
+						border-bottom-left-radius: 25px
+						border-right: none
+						display: block
+						span
+							margin-bottom: 7px
+						*
+							font-size: 17px
+
+					&:last-of-type
+						border-top-right-radius: 25px
+						overflow: hidden
+						border-bottom-right-radius: 25px
+						border-left: none
+
+					button
+						border: none
+
+			.form-group
+				margin-bottom: 0
+				border-radius: 8px
+				overflow: hidden
+				border: 1px solid $green
+
+	#product
+		> .form-group
+			display: flex
+			flex-direction: column
+			select
+				max-width: 250px
+				border: 1px solid $green
+				border-radius: 2px
+
+#related_slider_related_products_
+	width: 90%
+	margin: 0 auto 30px
+	.slick-nav
+		top: 0
+		bottom: 0
+		z-index: 2
+		&.right
+			right: 0
+
+		img
+			width: 35px
+
+	.slick-list
+		width: 95%
+		margin: 0 auto
+
+.common-home
+	.about-container
+		.inner
+			display: flex
+			justify-content: space-between
+			margin-bottom: calc(15px + (25 - 15) * (100vw - 320px) / (1920 - 320))
+
+			.images
+				position: relative
+				display: flex
+				align-items: center
+
+				.inner-image
+					height: 96%
+					img
+						width: 100%
+						height: 100%
+						object-fit: cover
+
+			.text
+				height: 100%
+				overflow: auto
+				margin: auto
+				display: flex
+				flex-direction: column
+
+				> div
+					margin: auto 0
+
+					h3
+						font-size: calc(20px + (28 - 20) * (100vw - 320px) / (1920 - 320))
+						font-weight: 600
+						margin-bottom: 15px
+						color: $green
+
+					p
+						line-height: 2em
+						margin-bottom: 15px
+
+			@media (min-width: 1200px)
+				max-height: 400px
+
+			@media (max-width: 1200px) and (min-width: 991px)
+				max-height: 350px
+
+			@media (min-width: 991px)
+				.images
+					width: 49%
+
+				.text
+					width: 50%
+
+			@media (max-width: 991px)
+				flex-direction: column
+				.text
+					h3
+						margin: 35px 0 10px !important
+
+		@media (max-width: 991px) and (min-width: 768px)
+			width: 75%
+			margin: 0 auto
+
+	.custom2
+		position: relative
+		padding: 45px 0 !important
+		overflow: visible
+		.homepage-adds
+			display: flex
+			justify-content: center	
+			width: 85%
+			margin: 0 auto	
+			@media (max-width: 1200px)
+				width: 90%
+			@media (max-width: 991px) and (min-width: 768px)
+				width: 95%
+			@media (max-width: 767px)
+				width: 90%
+
+			.left-con
+				width: 34%
+				border-right: 2px solid #384829
+				margin-right: 45px
+				display: flex
+				flex-direction: column
+				justify-content: center			
+
+				h2
+					text-align: left !important
+					margin-bottom: 30px !important
+					letter-spacing: 1px
+					font-size: calc(20px + (45 - 20) * (100vw - 320px) / (1920 - 320)) !important
+
+				.content
+					> div
+						display: flex
+						align-items: center
+						margin-bottom: 10px
+						img
+							margin-right: 10px
+							width: 48px
+
+			.right-con
+				width: 66%
+				padding-left: 40px
+				@media (max-width: 991px)
+					padding-left: 0
+				p
+					font: 13px
+				.content
+					display: flex
+					flex-wrap: wrap
+					> div
+						width: calc(100% / 3)
+						text-align: center
+						padding-top: calc(20px + (40 - 20) * (100vw - 320px) / (1920 - 320))
+						img
+							max-width: 75px
+
+						h3
+							margin-bottom: 0
+							margin-top: 10px
+							font-size: 16px
+							font-weight: 600
+			
+			.design
+				position: absolute
+				z-index: 1
+				&.d1
+					top: -5%
+					width: 80px
+					right: 5%
+				&.d2
+					bottom: -15%
+					left: 0
+					width: 120px
+	
+			@media (max-width: 767px)
+				flex-direction: column
+				position: relative
+
+				.d1
+					top: -8% !important
+
+				.d2
+					bottom: -10% !important
+
+				.right-con, .left-con
+					width: 100%
+
+				.left-con
+					border-right: 0 !important
+					border-bottom: 2px solid $b
+					margin-bottom: 15px
+					align-items: center
+					display: flex
+					h2
+						text-align: center !important
+
+				.right-con
+					.content
+						> div
+							width: calc(100% / 2)
+
+	.section-space
+		&.featured
+			background-position: left !important
+	.featured-module
+		width: 87%
+		margin-left: auto
+		margin-right: 5%
+
+		.my-heading
+			display: flex
+			flex-direction: column
+			h2
+				margin-bottom: 20px !important
+				text-align: left !important
+
+			a
+				width: 140px
+				margin-top: 20px
+			@media (max-width: 767px)
+				text-align: center
+				h2
+					text-align: center !important
+				a
+					margin: 20px auto 0
+
+		> .featured
+			.slick-nav
+				img
+					width: 35px
+			.slick-list
+				width: 95%
+				margin: 0 auto
+
+				.product-block
+					background: transparent
+					input
+						background: $w !important
+
+		@media (min-width: 768px)
+			display: grid
+			display: -ms-grid-
+			grid-template-columns: 1fr 1fr 1fr 1fr
+			-ms-grid-columns:  1fr 1fr 1fr 1fr
+			grid-template-rows: auto auto auto
+			// height: 60vh
+			-ms-grid-rows: auto auto auto
+			.my-heading
+				grid-column: 1 / 2
+				grid-row: 2 / 3
+				-ms-grid-column: 1
+				-ms-grid-row: 2
+				-ms-grid-column-span: 1
+			> .featured
+				margin-left: 40px
+				grid-column: 2 / 5
+				grid-row: 1 / 4
+				-ms-grid-column: 2
+				-ms-grid-row: 1
+				-ms-grid-column-span: 2
+
+		@media (max-width: 767px)
+			> .featured
+				margin-top: 30px
+
+	.my-mailchimp
+		display: block !important
+		h2
+			margin-bottom: 20px !important
+			color: $w !important
+			position: relative
+
+			&::after, &::before
+				content: ''
+				position: absolute
+				display: inline-block
+				border-top: 1px solid $w
+				width: calc(60px + (140 - 60) * (100vw - 320px) / (1920 - 320))
+				top: 50%
+			&::after
+				margin-right: 20px
+				right: 0
+			&::before
+				margin-left: 20px
+				left: 0
+
+		form
+			width: 60%
+			margin: auto
+			padding: 50px 0
+			@media (max-width: 991px)
+				width: 80%
+			@media (max-width: 767px)
+				width: 90%
+				h2
+					display: flex
+					flex-direction: column
+					padding-bottom: 10px
+
+					&::after
+						left: 0
+						top: auto
+						bottom: -5px !important
+
+					&::before
+						display: none
+
+			p
+				color: $w
+				text-align: center
+				padding-bottom: 20px
+
+			.input-wrap
+				width: 75%
+				margin: auto
+				border-radius: 6px
+				overflow: hidden
+
+				input
+					border: 1px solid $w
+					&::placeholder
+						padding-left: 10px
+						font-size: 13px
+				
+				.btn
+					background: $w
+					color: $green
+					padding-right: 20px
+					padding: 0 15px 0 0
+					height: 100%
+					border-radius: 0 !important
+					min-width: 0 !important
+					i
+						font-size: 17px
+					&:hover
+						i
+							color: $green
+
+	#content
+		margin-bottom: 0
+
+.modal
+	.btn
+		min-width: 100px !important
+		display: flex
+		span
+			padding-left: 10px
+
+.common-home
+	.about-container
+		.btn-primary
+			display: flex
+			width: 130px
+			padding-left: 30px			
+
+header
+	> .container
+		width: 95% !important
+	.header-container
+		@media (min-width: 768px)
+			padding: 23px 0
+
+		.header-logo
+			position: relative
+			@media (min-width: 991px)
+			min-width: 110px
+
+			.header-logo-image
+				top: -20px
+
+				img
+					max-width: 120px
+					padding: 10px
+					background: $w
+					border-radius: 50%
+
+				@media (min-width: 768px)
+					position: absolute
+
+		@media (max-width: 767px)
+			padding:  5px 0
+			.header-logo-image
+				img
+					width: 70px
+					padding: 0 !important
+				
+	.nav-img
+		width: 22px
+
+	#main-menu
+		display: flex
+		justify-content: center
+		flex-wrap: wrap		
+		li
+			&.active
+				a, span
+					color: $green
+		span
+			text-transform: uppercase
+			font-weight: bold
+			font-size: 13px
+			font-family: 'HelveticaNeue Medium.ttf'
+
+		.sub-arrow
+			border: 1px solid black
+			width: 5px
+			height: 5px
+			border-color: $b transparent transparent $b
+			transform: rotate(-135deg)
+			margin-bottom: 8px !important
+
+footer
+	> .container
+		padding: 0
+		@media (max-width: 991px)
+			width: 90%
+			margin: 0 auto
+			min-width: 90%
+
+	.footer-contact-info
+		flex: 1.5
+		h5
+			font-size: 19px
+			font-weight: 500
+
+	h5
+		padding-bottom: 10px
+	
+	*
+		color: $w !important
+
+	p, a
+		line-height: 2
+	
+	ul
+		a
+			text-transform: uppercase
+			font-size: 12px
+
+	.footer-social-icons
+		display: flex
+		flex-wrap: wrap
+		img
+			width: 35px
+
+	.footer-bottom
+		padding-top: 20px
+		padding-bottom: 5px
+		margin-top: 30px
+		border-top: 1px solid #287C43
+		> div
+			width: 85%
+			margin: 0 auto
+			display: flex
+			*
+				font-size: 12px
+
+			a
+				text-decoration: none
+				&:hover
+					text-decoration: underline
+
+		@media (min-width: 992px) and (max-width: 1199px)
+			> div
+				width: 970px
+		
+		@media (max-width: 991px)
+			> div
+				width: 90%
+				margin: 0 auto
+		
+		@media (max-width: 767px)
+			> div
+				display: flex
+				align-items: center
+				flex-wrap: wrap
+				flex-direction: column
+				> span
+					display: none
+
+#slideshow0
+	.slider-slideshow-description
+		width: 90%
+		margin: 0 auto
+		.slider-slideshow-description-texts
+			position: relative
+			@media (max-width: 1200px) and (min-width: 768px)
+				&.no-title
+					margin-top: 35px
+			@media (max-width: 767px)
+				left: 0 !important
+		@media (max-width: 991px)
+			// &.no-title
+			background: rgba(255,255,255,.3)
+			padding: 10px
+
+		.container
+			width: 50%
+			min-width: 50% !important
+			&.right
+				margin-left: auto
+				margin-right: 0
+
+			&.left
+				margin-right: auto
+				margin-left: 0
+
+			@media (max-width: 767px)
+				width: 100%
+
+	.design-image
+		max-width: calc(90px + (140 - 90) * (100vw - 320px) / (1920 - 320))
+		margin: 0 auto 10px
+
+	.background-type-dark_image
+		h3
+			color: $w !important
+
+	.background-type-light_image
+		h3
+			color: $green !important
+
+	.owl-nav
+		.position-center-center
+			background: rgba(255,255,255, .8)
+			padding: 15px 10px 10px 20px
+
+			i
+				border: 1px solid black
+				border-color: black transparent transparent black
+				width: 15px
+				transform: rotate(-45deg)
+				color: transparent
+				height: 15px			
+			
+		.owl-next
+			.position-center-center
+				padding: 15px 20px 10px 10px
+			i
+				border-color: transparent black black transparent
+
+		@media (max-width: 767px)
+			display: none
+
+#footer-area
+	.modal
+		.modal-dialog
+			width: 75%
+
+			.close-btn
+				position: absolute
+				right: -10px
+				top: -10px
+				z-index: 2
+				background: $w
+				border-radius: 50%
+				padding: 10px
+				width: 30px
+				height: 30px
+				font-size: 20px
+				display: flex
+				align-items: center
+				justify-content: center
+				box-shadow: 0 0 10px
+				cursor: pointer
+
+			.modal-content
+				display: flex
+				border-radius: 15px
+				overflow: hidden
+				.l
+					img
+						width: 100%
+				.r
+					display: flex
+					flex-direction: column
+					align-items: center
+					justify-content: center
+					padding: 40px
+					h2		
+						margin-bottom: 25px !important
+
+					img
+						max-width: 120px
+						padding-bottom: 15px
+
+					.newsletter-module
+						margin-top: 20px
+						width: 100%
+						border: 1px solid black
+						border-radius: 8px
+						overflow: hidden
+						padding: 5px						
+						input
+							border: none
+							box-shadow: none
+
+						i
+							display: none
+						
+						.myhid
+							display: block !important
+
+						h2, p
+							display: none
+
+			@media (min-width: 992px)
+				.l
+					width: 40%
+				.r
+					width: 60%
+
+			@media (max-width: 991px)
+				.modal-content
+					flex-direction: column
+				.l
+					order: 2
+				.r
+					order: 1
+
+		@media (max-width: 1200px) and (min-width: 991px)
+			.modal-dialog
+				width: 95% !important
+			
+
+		@media (max-width: 767px)
+			.modal-dialog
+				width: 90% !important
+				margin-left: auto
+				margin-right: auto
+
+				.input-wrap
+					flex-direction: column
+
+.btn-cart, #button-cart, .cart-dorpdown-footer .btn
+	&::before
+		display: none
+
+#waiting_list_submit
+	min-width: 120px !important
+	display: flex
+	padding-left: 32px	
+
+#main-menu
+	.all-cats
+		> ul
+			flex-wrap: wrap
+			min-height: 150px !important
+			> li
+				width: calc(100% / 5)
+				min-width: 180px
+				> a, span
+					color: $green !important
+					font-weight: bold !important
+		
+	a, span
+		&:hover
+			text-decoration: underline
+			color: $green !important
+
+	.all-cats
+		.sub-arrow
+			display: none
+		&:hover
+			ul
+				display: flex !important
+		ul
+			width: max-content		
+			background: $w
+			
+			ul
+				position: relative
+				box-shadow: none !important
+				border: none !important
+				flex-direction: column				

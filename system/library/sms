@@ -1,0 +1,27 @@
+<?php
+class Sms {
+	public function __construct($registry) {
+        $this->config = $registry->get("config");
+	}
+	public function send($sms_to,$sms_msg){ 
+	    $user = "APIRI111HTZFC";
+	    $pass = "APIRI111HTZFCRI111";
+	    $sms_from = "Jason";
+
+	    $query_string = "api.aspx?apiusername=".$user."&apipassword=".$pass;
+        $query_string .= "&senderid=".rawurlencode($sms_from)."&mobileno=".rawurlencode($sms_to);
+        $query_string .= "&message=".rawurlencode(stripslashes($sms_msg)) . "&languagetype=1";        
+        $url = "http://gatewayd2.onewaysms.sg:10002/".$query_string;
+        $fd = @implode ('', file($url));    
+
+        $otp_status = 0;
+
+        if($fd > 0){
+            $otp_status = 1;
+        }
+        
+        debug($fd);exit;
+ 
+        return $otp_status;
+	}
+}

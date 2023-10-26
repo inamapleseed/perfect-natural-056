@@ -1,0 +1,688 @@
+2018-06-01 18:23:02 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_social_login
+FILE: admin/model/customer/customer.php
+CODE: $this->db->query("DELETE FROM " . DB_PREFIX . "customer WHERE customer_id = '" . (int)$customer_id . "'");
+LINE: 78
+----------------------------------------------------------------
+2018-06-01 18:23:20 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_social_login
+FILE: admin/model/customer/customer.php
+CODE: $this->db->query("DELETE FROM " . DB_PREFIX . "customer WHERE customer_id = '" . (int)$customer_id . "'");
+LINE: 78
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2018-08-15 14:24:57 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_social_login
+FILE: admin/model/customer/customer.php
+CODE: $this->db->query("DELETE FROM " . DB_PREFIX . "customer WHERE customer_id = '" . (int)$customer_id . "'");
+LINE: 79
+----------------------------------------------------------------
+2018-08-15 14:25:00 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_social_login
+FILE: admin/model/customer/customer.php
+CODE: $this->db->query("DELETE FROM " . DB_PREFIX . "customer WHERE customer_id = '" . (int)$customer_id . "'");
+LINE: 79
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2018-10-23 4:16:09 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2018-10-23 14:22:02 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2018-10-23 14:22:08 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_social_login
+FILE: admin/model/customer/customer.php
+CODE: $this->db->query("DELETE FROM " . DB_PREFIX . "customer WHERE customer_id = '" . (int)$customer_id . "'");
+LINE: 129
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2018-11-04 16:26:21 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2018-12-25 8:01:53 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2019-03-06 15:02:02 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2020-02-28 12:01:11 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2020-04-02 12:13:19 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------
+2021-10-29 19:03:00 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+FILE: system/library/template/twig.php
+NOT FOUND!
+----------------------------------------------------------------
+MOD: Mega Filter PRO
+FILE: catalog/controller/common/column_left.php
+CODE: if (isset($part[0]) && $this->config->get($part[0] . '_status')) {
+LINE: 62
+FILE: catalog/controller/common/column_right.php
+CODE: if (isset($part[0]) && $this->config->get($part[0] . '_status')) {
+LINE: 60
+FILE: catalog/controller/common/content_top.php
+CODE: if (isset($part[0]) && $this->config->get($part[0] . '_status')) {
+LINE: 63
+FILE: catalog/controller/common/header.php
+CODE: 'filter_sub_category' => true
+NOT FOUND!
+FILE: catalog/controller/extension/module/category.php
+CODE: 'filter_sub_category' => true
+NOT FOUND!
+FILE: admin/controller/design/layout.php
+CODE: foreach ($extensions as $code) {
+LINE: 373
+CODE: $this->response->setOutput(
+LINE: 264
+LINE: 483
+FILE: admin/model/design/layout.php
+CODE: $this->db->query("DELETE FROM " . DB_PREFIX . "layout_module WHERE layout_id = '" . (int)$layout_id . "'
+LINE: 37
+LINE: 53
+FILE: system/engine/controller.php
+CODE: class Controller {
+LINE: 14
+CODE: $this->registry = $registry;
+LINE: 67
+FILE: catalog/controller/product/special.php
+CODE: $product_total = $this->model_catalog_product->getTotalProductSpecials();
+NOT FOUND!
+FILE: catalog/controller/startup/seo_url.php
+CODE: unset($data['route']);
+LINE: 338
+CODE: $query = $this->db->query("SELECT * FROM " . DB_PREFIX . "url_alias WHERE keyword = '" . $this->db->escape($part) . "'");
+LINE: 105
+REGEX: ~foreach *\( *\$parts as \$part *\) \{~
+LINE: 48
+FILE: catalog/model/catalog/product.php
+CODE: $query = $this->db->query("
+LINE: 22
+LINE: 556
+LINE: 572
+LINE: 590
+LINE: 675
+LINE: 681
+LINE: 687
+LINE: 693
+LINE: 760
+LINE: 770
+LINE: 781
+LINE: 1076
+LINE: 1082
+LINE: 1088
+LINE: 1100
+LINE: 1110
+CODE: $sql = ("
+LINE: 23
+LINE: 558
+LINE: 575
+LINE: 594
+LINE: 680
+LINE: 687
+LINE: 694
+LINE: 701
+LINE: 769
+LINE: 780
+LINE: 792
+LINE: 1088
+LINE: 1095
+LINE: 1102
+LINE: 1115
+LINE: 1126
+CODE: $query = $this->db->query($sql);
+LINE: 26
+LINE: 49
+LINE: 486
+LINE: 515
+LINE: 609
+LINE: 636
+LINE: 666
+LINE: 698
+LINE: 797
+LINE: 817
+LINE: 837
+LINE: 857
+LINE: 928
+LINE: 951
+LINE: 975
+LINE: 1000
+LINE: 1302
+LINE: 1322
+LINE: 1342
+LINE: 1362
+LINE: 1388
+LINE: 1412
+LINE: 1557
+LINE: 1701
+LINE: 1783
+LINE: 1859
+LINE: 1939
+FILE: catalog/controller/product/category.php
+CODE: $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+LINE: 182
+FILE: catalog/controller/product/search.php
+CODE: if (isset($this->request->get['search']) || isset($this->request->get['tag'])) {
+LINE: 213
+CODE: $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+LINE: 250
+CODE: $data['categories'] = array();
+NOT FOUND!
+CODE: $url = '';
+NOT FOUND!
+CODE: $this->response->setOutput(
+LINE: 337
+CODE: $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+LINE: 185
+CODE: $data['products'][] = array(
+NOT FOUND!
+FILE: catalog/controller/product/manufacturer.php
+CODE: $url = '';
+LINE: 134
+LINE: 266
+LINE: 335
+LINE: 364
+LINE: 421
+CODE: $this->response->setOutput(
+LINE: 70
+LINE: 424
+LINE: 482
+CODE: $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+LINE: 197
+CODE: $data['products'][] = array(
+LINE: 264
+CODE: $url = '';
+LINE: 101
+LINE: 284
+LINE: 373
+LINE: 424
+CODE: $this->response->setOutput(
+LINE: 582
+CODE: $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+LINE: 258
+CODE: $data['products'][] = array(
+NOT FOUND!
+CODE: $url = '';
+NOT FOUND!
+CODE: $this->response->setOutput(
+LINE: 252
+CODE: $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+LINE: 152
+CODE: $data['products'][] = array(
+NOT FOUND!
+FILE: catalog/controller/module/mega_filter.php
+CODE: $url = '';
+LINE: 204
+LINE: 367
+LINE: 432
+LINE: 461
+CODE: $this->response->setOutput(
+LINE: 524
+LINE: 532
+LINE: 539
+CODE: $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+LINE: 289
+CODE: $data['products'][] = array(
+LINE: 359
+FILE: system/startup.php
+CODE: if (version_compare(phpversion()
+LINE: 18
+FILE: system/engine/event.php
+CODE: trigger($event, array $args = array()) {
+LINE: 23
+FILE: admin/controller/extension/extension/module.php
+CODE: $this->load->controller('extension/module/' . $this->request->get['extension'] . '/install');
+LINE: 54
+CODE: $this->load->controller('extension/module/' . $this->request->get['extension'] . '/uninstall');
+LINE: 86
+FILE: catalog/controller/extension/feed/google_sitemap.php
+CODE: $output .= '</urlset>';
+LINE: 81
+FILE: catalog/controller/information/sitemap.php
+CODE: $this->response->setOutput(
+LINE: 107
+FILE: admin/view/template/extension/extension/module.tpl
+CODE: $extension['edit']
+LINE: 60
+LINE: 62
+LINE: 140
+LINE: 142
+FILE: system/library/document.php
+CODE: public function mfp_removeLink( $rel ) {foreach( $this->links as $k => $v ) {if( $v['rel'] == $rel ) {unset( $this->links[$k] );}}}
+NOT FOUND!
+CODE: class Document {
+LINE: 4
+FILE: catalog/controller/extension/module/special.php
+CODE: $filter_data = array(
+LINE: 27
+FILE: catalog/controller/common/language.php
+CODE: function language() {
+LINE: 55
+CODE: function index() {
+LINE: 11
+----------------------------------------------------------------
+MOD: d_twig_manager
+CODE: $file = DIR_TEMPLATE . $template;
+NOT FOUND!
+CODE: $output = $template->render($route . '.tpl'
+LINE: 92
+----------------------------------------------------------------

@@ -1,0 +1,1482 @@
+[29-Oct-2021 19:04:50 Asia/Singapore] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pnpcomsg/public_html/system/storage/modification/catalog/model/catalog/product.php on line 39
+[29-Oct-2021 19:05:05 Asia/Singapore] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pnpcomsg/public_html/system/storage/modification/catalog/model/catalog/product.php on line 39
+[29-Oct-2021 19:05:06 Asia/Singapore] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pnpcomsg/public_html/system/storage/modification/catalog/model/catalog/product.php on line 39
+[29-Oct-2021 19:05:56 Asia/Singapore] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pnpcomsg/public_html/system/storage/modification/catalog/model/catalog/product.php on line 39
+[29-Oct-2021 19:07:16 Asia/Singapore] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pnpcomsg/public_html/system/storage/modification/catalog/model/catalog/product.php on line 39
+[29-Oct-2021 19:11:32 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:11:55 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:12:14 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:12:17 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:23 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:24 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:24 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:24 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:24 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:29 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:30 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:30 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:30 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:30 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:30 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:12:30 Asia/Singapore] PHP Parse error:  syntax error, unexpected '?>' in /home/pnpcomsg/public_html/catalog/view/theme/default/template/common/footer.tpl on line 2
+[29-Oct-2021 19:14:52 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:22:31 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:23:54 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:24:27 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:28:09 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:31:09 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[29-Oct-2021 19:37:57 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 11:34:08 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 11:34:45 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 11:35:16 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 11:36:18 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 12:30:22 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 12:36:33 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 12:36:51 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 13:42:36 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 13:47:15 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 13:50:53 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 13:50:55 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 16:15:21 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 16:15:22 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 16:15:23 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 16:15:23 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[30-Oct-2021 16:15:24 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[31-Oct-2021 14:50:10 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('438', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(438, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:11 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('439', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(439, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:12 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('440', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(440, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:13 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('441', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(441, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:14 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('442', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(442, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:15 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('443', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(443, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:16 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('444', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(444, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:17 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('445', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(445, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:18 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('446', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(446, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:19 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('447', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(447, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:20 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('448', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(448, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:22 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('449', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(449, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:23 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('450', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(450, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:24 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('451', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(451, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:25 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('452', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(452, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:26 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('453', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(453, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:27 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('454', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(454, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:28 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('455', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(455, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Oct-2021 14:50:29 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://www.pnp.com.sg/index.php?route=information/contact'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('456', 'http://www.pnp.com.sg/index.php?route=information/contact'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(456, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[01-Nov-2021 10:39:37 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[01-Nov-2021 10:39:47 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[01-Nov-2021 10:40:23 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[01-Nov-2021 12:07:17 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[01-Nov-2021 12:19:35 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: RCPT TO not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:366
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html in /home/pnpcomsg/public_html/system/library/mail.php on line 366
+[01-Nov-2021 12:29:34 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: RCPT TO not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:366
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html in /home/pnpcomsg/public_html/system/library/mail.php on line 366
+[01-Nov-2021 14:21:26 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[01-Nov-2021 14:24:47 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[01-Nov-2021 15:01:07 Asia/Singapore] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/pnpcomsg/public_html/system/storage/modification/catalog/controller/product/search.php on line 591
+[24-Nov-2021 09:51:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:51:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:51:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:51:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:52:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:52:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:52:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:52:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:53:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:53:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:53:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:53:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:54:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:54:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:54:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:54:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:55:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:56:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:56:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:56:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:56:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:57:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:57:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:57:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:57:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:58:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:58:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:58:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:58:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:59:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 09:59:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:59:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 09:59:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:00:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:00:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:00:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:00:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:01:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:01:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:01:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:01:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:02:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:02:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:02:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:02:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:03:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:03:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:03:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:03:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:04:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:04:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:04:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:04:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:04:41 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:04:41 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:04:41 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:04:41 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:05:01 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:05:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:05:01 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:05:01 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:06:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[24-Nov-2021 10:06:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:06:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[24-Nov-2021 10:06:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[26-Nov-2021 00:05:25 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(30, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPaymentP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:06:18 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(30, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:08:11 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(30, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:08:22 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(30, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:10:43 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(30, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:12:19 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_htm in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:14:26 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(31, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPaymentP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:20:46 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(31, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:21:11 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(31, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:22:45 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(32, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPaymentP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:25:11 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_htm in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:25:58 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_htm in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:26:50 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_htm in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 00:29:44 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(33, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPaymentP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 20:01:03 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(34, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 20:01:45 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(35, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPaymentP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 20:02:03 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(35, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 20:02:26 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(35, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[26-Nov-2021 20:03:19 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(35, '1', 'PayNow / PayLah...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/paynow.php(34): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPayment in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 00:23:05 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(36, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 00:23:14 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(36, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 00:23:23 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(36, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 00:24:00 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(36, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 00:25:10 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(36, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 00:25:17 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(36, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 19:27:43 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(40, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 19:28:18 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(40, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[29-Nov-2021 19:28:47 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(40, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 15:07:55 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory('7', '17')
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/api/order.php(830): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerApiOrder->edit()
+#8 /home/pnpcomsg/public_html/catalog/co in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 15:33:40 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory('29', '17')
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/api/order.php(830): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerApiOrder->edit()
+#8 /home/pnpcomsg/public_html/catalog/c in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 15:40:44 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(41, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 15:40:53 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(41, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 16:05:41 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory('7', '17', 'payment receive...', '1', '0')
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/api/order.php(966): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerApiOrder->history()
+#8 / in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 17:59:38 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(42, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 18:40:03 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(43, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 18:40:14 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(43, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 18:56:59 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(43, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:35:58 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:37:00 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:37:11 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:37:15 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:37:24 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:37:29 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:46:13 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[01-Dec-2021 20:46:28 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(44, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[02-Dec-2021 13:32:57 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory('29', '5')
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/api/order.php(830): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerApiOrder->edit()
+#8 /home/pnpcomsg/public_html/catalog/co in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[02-Dec-2021 22:33:37 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/account/customer.php(91): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelAccountCustomer->addCustomer(Array)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/account/register.php(104): Proxy->__call('addCustomer', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerAccountRegister->index()
+#8 /home/pnpcomsg/public_html/cata in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[09-Dec-2021 09:59:11 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(45, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionP in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[09-Dec-2021 09:59:22 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(45, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[09-Dec-2021 09:59:48 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(45, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[09-Dec-2021 10:00:11 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_htm in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[09-Dec-2021 10:00:17 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_htm in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[09-Dec-2021 10:06:04 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Password not accepted from server! in /home/pnpcomsg/public_html/system/library/mail.php:304
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(1068): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(45, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtension in /home/pnpcomsg/public_html/system/library/mail.php on line 304
+[09-Dec-2021 10:09:17 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:188
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 188
+[09-Dec-2021 10:10:08 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:188
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 188
+[09-Dec-2021 10:13:16 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:188
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 188
+[09-Dec-2021 10:15:07 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:188
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 188
+[09-Dec-2021 10:16:39 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:189
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 189
+[09-Dec-2021 10:17:19 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:189
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 189
+[09-Dec-2021 10:19:18 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:189
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 189
+[09-Dec-2021 10:20:37 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:189
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/model/checkout/order.php(847): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCheckoutOrder->addOrderHistory(46, '1', 'Bank Transfer I...', true)
+#5 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#6 /home/pnpcomsg/public_html/catalog/controller/extension/payment/bank_transfer.php(32): Proxy->__call('addOrderHistory', Array)
+#7 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerExtensionPaymentBa in /home/pnpcomsg/public_html/system/library/mail.php on line 189
+[09-Dec-2021 10:27:15 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:189
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 189
+[09-Dec-2021 10:27:15 Asia/Singapore] PHP Warning:  Error while sending QUERY packet. PID=31371 in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 18
+[09-Dec-2021 10:27:15 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: MySQL server has gone away<br />Error No: 2006<br />SELECT * FROM perfectnatural_extension WHERE `type` = 'openbay' in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('SELECT * FROM p...', Array)
+#1 /home/pnpcomsg/public_html/system/library/openbay.php(117): DB->query('SELECT * FROM p...')
+#2 /home/pnpcomsg/public_html/system/library/openbay.php(10): Openbay->getInstalled()
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(116): Openbay->__construct(Object(Registry))
+#4 /home/pnpcomsg/public_html/system/framework.php(81): Loader->library('openbay')
+#5 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#6 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#7 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[09-Dec-2021 10:31:28 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:189
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 189
+[09-Dec-2021 10:34:24 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: Connection timed out (110) in /home/pnpcomsg/public_html/system/library/mail.php:189
+Stack trace:
+#0 /home/pnpcomsg/public_html/catalog/model/tool/pro_email.php(1097): Mail->send()
+#1 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelToolProEmail->generate(Array)
+#2 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/pnpcomsg/public_html/catalog/controller/information/contact.php(298): Proxy->__call('generate', Array)
+#4 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerInformationContact->ajax_submit()
+#5 /home/pnpcomsg/public_html/catalog/controller/startup/router.php(25): Action->execute(Object(Registry))
+#6 /home/pnpcomsg/public_html/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#7 /home/pnpcomsg/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#8 /home/pnpcomsg/public_html/system in /home/pnpcomsg/public_html/system/library/mail.php on line 189
+[16-Dec-2021 14:10:34 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'N%20STAY%20LIPS')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('7544', 'http://www.pnp.com.sg/search&search=NATURAL%20MATT'N%20STAY%20LIPS')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('7544', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{c in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[15-Jan-2022 00:07:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[15-Jan-2022 00:07:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[15-Jan-2022 00:07:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[15-Jan-2022 00:07:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[16-Mar-2022 16:52:37 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('24549', 'http://www.pnp.com.sg/index.php?route=information/contact'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('24549', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array,  in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[23-Mar-2022 05:06:36 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('26701', 'http://www.pnp.com.sg/face-care/sub-2?amp%3Bproduct_id='&49')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(26701, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[23-Mar-2022 08:44:50 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('26707', 'http://www.pnp.com.sg/face-care/sub-2?amp%3Bproduct_id='&49')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(26707, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[18-Apr-2022 16:26:24 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'n-Stay-Lips-Matt'n-Rose-01-350x350.jpg')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('28089', 'http://www.pnp.com.sg//image/cache/catalog/Matt'n-Stay-Lips-Matt'n-Rose-01-350x350.jpg')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('28089', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[18-Apr-2022 16:26:30 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'n-Stay-Lips-Matt'n-Rose-01-350x350.jpg')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('28089', 'http://www.pnp.com.sg//image/cache/catalog/Matt'n-Stay-Lips-Matt'n-Rose-01-350x350.jpg')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('28089', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[11-Jul-2022 07:18:39 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('32094', 'http://www.pnp.com.sg/face-care/sub-2?amp;product_id=49'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('32094', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Ar in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-Jul-2022 11:20:50 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('33107', 'http://www.pnp.com.sg/face-care/sub-2?amp;product_id=49'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('33107', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Ar in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[05-Sep-2022 15:13:42 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('40418', 'http://www.pnp.com.sghttps://www.pnp.com.sg/index.php?route=product/manufacturer/info&manufacturer_id=1&page=9'A=0')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(40418, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/sys in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[16-Sep-2022 05:27:43 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('41122', 'http://www.pnp.com.sg/index.php?route=product/category'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('41122', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Arr in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[28-Sep-2022 12:11:24 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]&sort=p.sort_order&order=p.sort_order&limit=12')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('41949', 'http://www.pnp.com.sg/products?page=4'[0]&sort=p.sort_order&order=p.sort_order&limit=12')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('41949', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnp in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[28-Sep-2022 12:11:25 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]&order=p.sort_order&limit=12')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('41949', 'http://www.pnp.com.sg/products?page=4&sort=p.sort_order'[0]&order=p.sort_order&limit=12')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('41949', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[28-Sep-2022 12:11:25 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]&limit=12')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('41949', 'http://www.pnp.com.sg/products?page=4&sort=p.sort_order&order=p.sort_order'[0]&limit=12')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('41949', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[28-Sep-2022 12:11:26 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('41949', 'http://www.pnp.com.sg/products?page=4&sort=p.sort_order&order=p.sort_order&limit=12'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('41949', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[23-Oct-2022 03:37:22 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('43319', 'http://www.pnp.com.sg/index.php?route=product/category'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('43319', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Arr in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[04-Nov-2022 08:29:38 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('45733', 'http://www.pnp.com.sg/body-care?page='&amp')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(45733, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#5 /home/pnpcomsg in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[08-Nov-2022 00:41:04 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(1%3d2)%20and%20'a'%3d'a')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('46021', 'http://www.pnp.com.sg/index.php?route=product%2fcategory'%20or%20(1%3d2)%20and%20'a'%3d'a')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(46021, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[08-Nov-2022 00:41:05 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(1%3d1)%20and%20'a'%3d'a')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('46022', 'http://www.pnp.com.sg/index.php?route=product%2fcategory'%20or%20(1%3d1)%20and%20'a'%3d'a')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(46022, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/ in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[08-Nov-2022 00:41:08 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('46025', 'http://www.pnp.com.sg/index.php?route=product%2fcategory'%20and%201%3d2%23')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(46025, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure} in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[08-Nov-2022 00:41:09 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('46026', 'http://www.pnp.com.sg/index.php?route=product%2fcategory'%20and%201%3d1%23')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(46026, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure} in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[08-Nov-2022 00:41:12 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%20-')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('46029', 'http://www.pnp.com.sg/index.php?route=product%2fcategory'%20and%201%3d2--%20-')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(46029, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{c in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[08-Nov-2022 00:41:13 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%20-')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('46030', 'http://www.pnp.com.sg/index.php?route=product%2fcategory'%20and%201%3d1--%20-')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(46030, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{c in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[08-Nov-2022 21:28:02 Asia/Singapore] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 7
+[08-Nov-2022 21:28:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[08-Nov-2022 21:28:02 Asia/Singapore] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[08-Nov-2022 21:28:02 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/pnpcomsg/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#1 /home/pnpcomsg/public_html/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'pnpcomsg_db', 'H%+Z5U&l[77%', 'pnpcomsg_db', '3306')
+#2 /home/pnpcomsg/public_html/system/startup.php(132): require_once('/home/pnpcomsg/...')
+#3 /home/pnpcomsg/public_html/index.php(22): start('catalog')
+#4 {main}
+  thrown in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 10
+[16-Nov-2022 09:12:10 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('46990', 'http://www.pnp.com.sg/index.php?route=product/category'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(46990, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[29-Nov-2022 02:51:31 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('48183', 'http://www.pnp.com.sg/index.php?route=product/category'"')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(48183, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#5 in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[29-Nov-2022 02:51:32 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('48184', 'http://www.pnp.com.sg/index.php?route=product/category'"')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(48184, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#5 in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[30-Nov-2022 23:08:40 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('48263', 'http://www.pnp.com.sg/index.php?route=product/category'"')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(48263, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#5 in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[30-Nov-2022 23:08:41 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('48264', 'http://www.pnp.com.sg/index.php?route=product/category'"')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(48264, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#5 in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[11-Dec-2022 01:51:44 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]&sort=p2co.sort_order,%20p.sort_order,%20pd.name&order=p2co.sort_order,%20p.s' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('50843', 'http://www.pnp.com.sg/make-up?page=2'[0]&sort=p2co.sort_order,%20p.sort_order,%20pd.name&order=p2co.sort_order,%20p.sort_order,%20pd.name&limit=12')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('50843', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/l in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[11-Dec-2022 01:51:52 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]&order=p2co.sort_order,%20p.sort_order,%20pd.name&limit=12')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('50843', 'http://www.pnp.com.sg/make-up?page=2&sort=p2co.sort_order,%20p.sort_order,%20pd.name'[0]&order=p2co.sort_order,%20p.sort_order,%20pd.name&limit=12')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('50843', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): M in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[11-Dec-2022 01:51:54 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]&limit=12')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('50843', 'http://www.pnp.com.sg/make-up?page=2&sort=p2co.sort_order,%20p.sort_order,%20pd.name&order=p2co.sort_order,%20p.sort_order,%20pd.name'[0]&limit=12')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('50843', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[11-Dec-2022 01:51:55 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('50843', 'http://www.pnp.com.sg/make-up?page=2&sort=p2co.sort_order,%20p.sort_order,%20pd.name&order=p2co.sort_order,%20p.sort_order,%20pd.name&limit=12'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('50843', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0) in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[17-Dec-2022 00:15:21 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('51175', 'http://www.pnp.com.sg/index.php?route=product/category'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog('51175', 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Arr in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[10-Mar-2023 12:47:30 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('57856', 'http://www.pnp.com.sg/index.php?route=product/category'[0]')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(57856, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[04-Apr-2023 23:52:35 Asia/Singapore] PHP Warning:  unlink(/home/pnpcomsg/public_html/system/storage/cache/cache.currency.1680623523): No such file or directory in /home/pnpcomsg/public_html/system/library/cache/file.php on line 17
+[08-May-2023 10:48:22 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'product/category')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('67746', 'http://www.pnp.com.sg/index.php?route='product/category')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(67746, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Ar in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[30-May-2023 22:09:57 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NGREY281088584021457626243-360x360.jpg')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('76574', 'http://www.pnp.com.sg/image/cache/catalog/CopyofFile_203WEB1080BEAUTIFULMINERALEYESHADOW-MATT'NGREY281088584021457626243-360x360.jpg')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(76574, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[31-May-2023 13:11:49 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NBLUE321088624021457626281-360x360.jpg')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('76678', 'http://www.pnp.com.sg/image/cache/catalog/CopyofFile_207web1080BEAUTIFULMINERALEYESHADOW-MATT'NBLUE321088624021457626281-360x360.jpg')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(76678, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[05-Jun-2023 05:05:26 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.+.'')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('77695', 'http://www.pnp.com.sg/index.php?route='.+.'')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(77695, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#5 /home/pnp in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40
+[06-Jun-2023 04:10:10 Asia/Singapore] PHP Fatal error:  Uncaught Exception: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'product/category')' at line 2<br />Error No: 1064<br />INSERT INTO `perfectnatural_visitor_log` (`visitor_id`, `route`) 
+            VALUES('77842', 'http://www.pnp.com.sg/index.php?route='product/category')
+         in /home/pnpcomsg/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pnpcomsg/public_html/system/library/db.php(16): DB\MySQLi->query('INSERT INTO `pe...', Array)
+#1 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(43): DB->query('INSERT INTO `pe...')
+#2 /home/pnpcomsg/public_html/catalog/model/common/analytics.php(5): ModelCommonAnalytics->insertVisitorLog(77842, 'http://www.pnp....')
+#3 /home/pnpcomsg/public_html/system/storage/modification/system/engine/loader.php(184): ModelCommonAnalytics->trackVisitor('http://www.pnp....', 0)
+#4 /home/pnpcomsg/public_html/system/engine/proxy.php(25): Loader->{closure}(Ar in /home/pnpcomsg/public_html/system/library/db/mysqli.php on line 40

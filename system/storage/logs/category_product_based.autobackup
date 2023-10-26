@@ -1,0 +1,55 @@
+SETTING	NUMBER	SUB-SETTING	SUB-NUMBER	SUB-SUB-SETTING	VALUE
+autocomplete_preloading					0
+autosave					0
+charge	1	charges			5
+charge	1	group			1
+charge	1	rule	1	comparison	onlyany
+charge	1	rule	1	type	product_group
+charge	1	rule	1	value	1
+charge	1	rule	2	comparison	entire_cart
+charge	1	rule	2	type	total
+charge	1	rule	2	value	0.01-10
+charge	1	title_admin			Vege
+charge	1	title_en-gb			Vegeta
+charge	1	type			flat
+charge	2	charges			6
+charge	2	group			2
+charge	2	rule	1	comparison	onlyany
+charge	2	rule	1	type	product_group
+charge	2	rule	1	value	2
+charge	2	title_admin			Meat
+charge	2	title_en-gb			Meat
+charge	2	type			flat
+charge	3	charges			11
+charge	3	group			3
+charge	3	rule	1	comparison	all
+charge	3	rule	1	type	product_group
+charge	3	rule	1	value	3
+charge	3	title_admin			Meat &amp; Vege
+charge	3	title_en-gb			Meat &amp; Vege
+charge	3	type			flat
+combination	1	formula			
+combination	1	groups_required			
+combination	1	sort_order			
+combination	1	title			single
+display					expanded
+distance_calculation					driving
+distance_units					mi
+google_apikey					
+heading_en-gb					Category &amp; Product-Based Shipping
+product_group	1	member	1		Vege [category:1]
+product_group	1	name			Vegetables
+product_group	1	subcategories			1
+product_group	2	member	1		Meat [category:2]
+product_group	2	name			Meat
+product_group	2	subcategories			1
+product_group	3	member	1		Vege [category:1]
+product_group	3	member	2		Meat [category:2]
+product_group	3	name			Combined
+product_group	3	subcategories			1
+rule_set	1	name			
+sort_order					1
+status					1
+tax_class_id					0
+testing_mode					0
+tooltips					1
